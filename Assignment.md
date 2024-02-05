@@ -4,11 +4,16 @@
 ```bash 
 
 cd home
-
+```
+```bash
  sudo mkdir MyFiles
 
- cd MyFiles
+```
+```bash
 
+ cd MyFiles
+```
+```bash
  ls -l
 
 ```
