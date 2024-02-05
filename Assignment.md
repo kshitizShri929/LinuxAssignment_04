@@ -25,7 +25,7 @@ total0
 
 shrikant@shrikant:/home/MyFiles$ 
 
-![Alt text](<Screenshot from 2024-02-01 23-10-21.png>)
+![Alt text](<assets/Screenshot from 2024-02-01 23-10-21.png>)
 
 ## Q2.	Copy a file named "document.txt" from your home directory to the "MyFiles" directory. Move the file to a subdirectory named "Documents" within "MyFiles."
 ```bash
