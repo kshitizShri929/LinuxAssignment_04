@@ -38,7 +38,16 @@ Output:
 
 ## Q3.	Create an empty file named "notes.txt" in the "MyFiles" directory. Afterward, delete the file.
 ```bash
-touch 
+touch notes .txt
+```
+```bash
+ls lrth
+```
+```bash
+rm notes.txt
+```
+```bash
+ls lrth
 ```
 Output:shrikant@shrikant:/home/MyFiles$ touch notes.txt
 
