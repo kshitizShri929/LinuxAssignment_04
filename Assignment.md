@@ -25,7 +25,8 @@ total0
 
 shrikant@shrikant:/home/MyFiles$ 
 
-![Alt text](<assets/Screenshot from 2024-02-01 23-10-21.png>)
+![Alt text](<assets/Screenshot from 2024-02-01 23-10-21.png>)![image](https://github.com/kshitizShri929/LinuxAssignment_04/assets/100191247/a38d1f37-2229-44f2-a013-2625beb82177)
+
 
 ## Q2.	Copy a file named "document.txt" from your home directory to the "MyFiles" directory. Move the file to a subdirectory named "Documents" within "MyFiles."
 ```bash
