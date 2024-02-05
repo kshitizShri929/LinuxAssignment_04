@@ -39,7 +39,9 @@ shrikant@shrikant:/home/MyFiles$
 ```
 Output:
 
-![Alt text](<Screenshot from 2024-02-02 11-39-12.png>)
+
+![Screenshot from 2024-02-02 11-39-12](https://github.com/kshitizShri929/LinuxAssignment_04/assets/100191247/4e62671c-8210-41ca-8c9c-2a110856e2dd)
+
 
 ## Q3.	Create an empty file named "notes.txt" in the "MyFiles" directory. Afterward, delete the file.
 ```bash
@@ -79,12 +81,16 @@ shrikant@shrikant:/home/MyFiles$
 ```bash
 ```
 Output:
-![Alt text](<Screenshot from 2024-02-02 12-14-45.png>)
+![Screenshot from 2024-02-02 12-14-45](https://github.com/kshitizShri929/LinuxAssignment_04/assets/100191247/0990eb14-e3e9-43ee-8dc7-bc1a3cc1847f)
+
+
 ## Q5.	In the "MyFiles" directory, use a single command to list all files that start with the letter "a" and have a ".txt" extension.
 ```bash
 ```
 OutPut:
 ![Alt text](<Screenshot from 2024-02-02 19-19-20-1.png>)
+![Screenshot from 2024-02-02 19-19-20](https://github.com/kshitizShri929/LinuxAssignment_04/assets/100191247/aecd2a45-4285-4d2e-b3d1-8cd8ff6beebf)
+
 
 ## Q6.	Rename all files in the "Documents" subdirectory of "MyFiles" with a ".bak" extension. Ensure the original file names are preserved.
 ```bash
